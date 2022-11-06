@@ -5,7 +5,9 @@
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 Adım 1: Binary search tree algoritmasında bir root belirlenir. 
+
 Root:7
+
 Root düğümünden küçük olan değeri sol alt ağacına,büyük olan değeri sağ alt ağacına eklenir.
 
 2.adım: 5,7'den küçük olduğu için sol alt ağa yerleştirilir.
